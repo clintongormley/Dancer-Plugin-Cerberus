@@ -1,2 +1,5 @@
+0.02    2012-07-28
+        POD fixes
+
 0.01    2012-07-24
         First release
