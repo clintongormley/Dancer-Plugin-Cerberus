@@ -173,15 +173,11 @@ with any data that L<App::Cerberus> has returned, for instance:
 
 =item *
 
-L<Elastic::Model>
+L<App::Cerberus>
 
 =item *
 
-L<Dancer>
-
-=item *
-
-L<ElasticSearch>
+L<Plack::Middleware::Cerberus>
 
 =back
 
